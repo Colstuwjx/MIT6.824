@@ -6,15 +6,15 @@ MIT 6.824 study notes.
 
 See http://nil.csail.mit.edu/6.824/2020/schedule.html .
 
-## Lecture notes
+## Lectures
 
-- [Lecture 1 introduction](lectures/lecture-1-introduction/notes.md)
+- [Lecture 1 introduction](lectures/lecture-1-introduction)
 
 ## Labs
 
 See the course lab links below:
 
-- [Lab 1 MapReduce](lecture-1/lectures/lecture-1-introduction)
+- [Lab 1 MapReduce](lectures/lecture-1-introduction)
 
 *According the Collaboration Policy from the course, I won't submit my lab codes to Github, This section only links the course labs*
 
@@ -22,7 +22,7 @@ See the course lab links below:
 
 - [MapReduce](http://nil.csail.mit.edu/6.824/2020/papers/mapreduce.pdf)
 
-## Books
+## Further readings
 
 - https://book.douban.com/subject/30329536/
 
