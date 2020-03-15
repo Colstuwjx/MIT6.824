@@ -109,4 +109,4 @@ Questions
 * Output is also stored in GFS
 * in 2020, the root switch is NOT ONLY a single machine anymore, modern data center has far more network throughput
 
-Lab 1 [MapReduce](6.824_Lab_1_ MapReduce.pdf).
+Lab 1 [MapReduce](6.824_Lab_1_MapReduce.pdf).
