@@ -12,11 +12,11 @@ See http://nil.csail.mit.edu/6.824/2020/schedule.html .
 
 ## Labs
 
-*According the Collaboration Policy from the course, I won't submit my lab codes to Github, This section only links the course labs*
-
 See the course lab links below:
 
-- [Lab 1 MapReduce](http://nil.csail.mit.edu/6.824/2020/labs/lab-mr.html)
+- [Lab 1 MapReduce](lecture-1/lectures/lecture-1-introduction)
+
+*According the Collaboration Policy from the course, I won't submit my lab codes to Github, This section only links the course labs*
 
 ## Papers
 
