@@ -21,3 +21,11 @@ See the course lab links below:
 ## Papers
 
 - [MapReduce](http://nil.csail.mit.edu/6.824/2020/papers/mapreduce.pdf)
+
+## Books
+
+- https://book.douban.com/subject/30329536/
+
+## GoCN
+
+- https://gocn.vip/topics/9821

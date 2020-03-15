@@ -35,7 +35,7 @@ Course structure
 * couple of components, lectures, papers, two exams, four labs, project (optional)
 * papers one read per work
 
-Today paper to read: [MapReduce](http://nil.csail.mit.edu/6.824/2020/papers/mapreduce.pdf)
+Today paper to read: [MapReduce](mapreduce.pdf)
 
 Learn from papers
 
@@ -109,4 +109,4 @@ Questions
 * Output is also stored in GFS
 * in 2020, the root switch is NOT ONLY a single machine anymore, modern data center has far more network throughput
 
-Lab 1 [MapReduce]((http://nil.csail.mit.edu/6.824/2020/labs/lab-mr.html)).
+Lab 1 [MapReduce](6.824 Lab 1_ MapReduce.pdf).
