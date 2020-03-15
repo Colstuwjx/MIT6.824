@@ -6,6 +6,10 @@ MIT 6.824 study notes.
 
 See http://nil.csail.mit.edu/6.824/2020/schedule.html .
 
+## Videoes
+
+See [MIT 6.824 Videoes](https://www.bilibili.com/video/av87684880?zw).
+
 ## Lectures
 
 - [Lecture 1 introduction](lectures/lecture-1-introduction)
